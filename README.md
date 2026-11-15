@@ -2,7 +2,7 @@
 
 ### Aspiring Cybersecurity Analyst | Systems Engineering Student
 
-I'm building my foundation in cybersecurity through formal training, hands-on labs, and independent projects.
+I'm building my foundation in cybersecurity through formal training, hands-on labs and independent projects.
 
 My main interests are SecOps, network analysis, Linux and threat detection. I'm particularly interested in understanding how attacks happen, how to identify suspicious activity and how security teams investigate incidents.
 
